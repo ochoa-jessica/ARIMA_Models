@@ -1,2 +1,1 @@
-# ARIMA_Models
-Have you ever tried to predict the future?
+# [ARIMA_Models](https://app.datacamp.com/learn/courses/arima-models-in-python)
